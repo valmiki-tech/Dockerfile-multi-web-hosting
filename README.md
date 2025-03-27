@@ -1,5 +1,5 @@
 # multi-web hosting using Dockerfile(docker)
-step-1 
+<h2>step-1</h2> 
 launched instance using AWS
-step-2
+<h2>step-2</h2>
 copied public ip address and pasted in kiitty terminal for easy acess
